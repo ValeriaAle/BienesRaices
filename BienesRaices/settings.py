@@ -55,7 +55,7 @@ ROOT_URLCONF = 'BienesRaices.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['C:/Users/cti5784/Desktop/BienesRaices/BienesRaices/inmuebles/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
